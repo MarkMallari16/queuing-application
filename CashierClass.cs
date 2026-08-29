@@ -18,7 +18,5 @@
             CashierNumber = CashierNumber + x.ToString();
             return CashierNumber;
         }
-
-
     }
 }
